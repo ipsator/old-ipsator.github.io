@@ -2,11 +2,11 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif',
+    title: 'Ipsator Analytics',
     description: 'my theme',
     contact: {
       phone: 'XXX XXX XXX',
-      email: 'zerostaticthemes@gmail.com',
+      email: 'info@ipsator.com',
     },
     menuLinks: [
       {
